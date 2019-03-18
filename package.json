@@ -1,0 +1,24 @@
+{
+  "name": "@railsgem/npm-logger",
+  "version": "1.0.0",
+  "description": "Console.log helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/railsgem/npm-logger.git"
+  },
+  "keywords": [
+    "Console.log()",
+    "log",
+    "logger"
+  ],
+  "author": "Ying Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/railsgem/npm-logger/issues"
+  },
+  "homepage": "https://github.com/railsgem/npm-logger#readme"
+}
